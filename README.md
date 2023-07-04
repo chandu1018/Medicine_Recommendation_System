@@ -12,7 +12,7 @@ The main aim is to recommend any alternative/substitute to be used in place of s
 > 1. Download Pycharm IDE and Open this application folder in it.  
 > 1. Import Libraries: *flask*, *pandas* and *pickle*.
 > 1. Open Termial.
-> 1. Type- "**python run app.py**"
+> 1. Type- "**python app.py**"
 
 >  
 
